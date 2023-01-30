@@ -1,0 +1,32 @@
+@import url('./constants.css');
+@import url('./header/header.css');
+@import url('./botao-azul/botao.css');
+@import url('./secao-um/secao-um.css');
+@import url('./secao-dois/secao-dois.css');
+@import url('./secao-tres/secao-tres.css');
+@import url('./secao-quatro/secao-quatro.css');
+@import url('./secao-cinco/secao-cinco.css');
+@import url('./secao-seis/secao-seis.css');
+@import url('./secao-sete/secao-sete.css');
+@import url('./secao-oito/secao-oito.css');
+@import url('./footer/footer.css');
+/*se eu importar tudo aqui faciliata depois*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: var(--font-family);
+    color: var(--cor-fonte-trello);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+}
