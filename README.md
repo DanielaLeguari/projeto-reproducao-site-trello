@@ -8,4 +8,4 @@
 - Reprodução do site do Trello, utilizando o design system da Atlassian.
 
 
-![](../img/trello.png)
+![](./src/img/trello.png)
